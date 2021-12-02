@@ -7,3 +7,4 @@ Map of Breweries in North America
 
 [Download pdf of Breweries in North America](Breweries-North-America.pdf)
 
+https://ryking0549.github.io/breweries-map/
